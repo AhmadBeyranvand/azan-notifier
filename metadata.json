@@ -1,0 +1,8 @@
+{
+  "name": "Azan Notifier",
+  "description": "Azan notifier for Gnome",
+  "uuid": "azan-notifier@ahmadbeyranvand.github.io",
+  "shell-version": [
+    "3.36"
+  ]
+}
